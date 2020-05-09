@@ -1,0 +1,8 @@
+{
+  "appId": "com.athiec.angulartest",
+  "appName": "angular-test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/angular-blank",
+  "cordova": {}
+}

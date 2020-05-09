@@ -1,0 +1,10 @@
+{
+  "app.title": "Cordova.js vs Zone.js",
+  "pageContainer.title": "Page container",
+  "homePage.title": "Home Page",
+  "homePage.navigate": "Navigate to Reimbursement",
+  "reimbursementPage.title": "Reimbursement",
+  "reimbursement.step1.title": "Step 1",
+  "reimbursement.step1.next": "Go to Step 2",
+  "reimbursement.step2.title": "Step 2"
+}
